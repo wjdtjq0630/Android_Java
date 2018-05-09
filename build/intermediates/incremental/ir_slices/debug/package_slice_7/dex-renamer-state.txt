@@ -1,0 +1,4 @@
+#Wed May 09 16:32:10 KST 2018
+base.0=C\:\\Users\\wjdtj\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\7
+path.0=classes.dex
+renamed.0=classes.dex
